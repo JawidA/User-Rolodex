@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(to right, rgb(36, 168, 211), rgb(43, 43, 224));
+}
+
+.input-search {
+  width: 280px;
+  max-width: 90%;
+  margin: 100px;
+  padding: 10px 15px;
+  font-size: 1rem;
+  border-radius: 10px;
+  border: solid 1px black;
+}
